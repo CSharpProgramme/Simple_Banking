@@ -1,0 +1,15 @@
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.csproj.AssemblyReference.cache
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.csproj.CoreCompileInputs.cache
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\bin\Debug\Simple_Banking.exe.config
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\bin\Debug\Simple_Banking.exe
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\bin\Debug\Simple_Banking.pdb
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.exe
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.pdb
+C:\Users\1971537\Desktop\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.exe.config
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\bin\Debug\Simple_Banking.exe.config
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\bin\Debug\Simple_Banking.exe
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\bin\Debug\Simple_Banking.pdb
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.csproj.AssemblyReference.cache
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.csproj.CoreCompileInputs.cache
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.exe
+C:\Users\steve\Downloads\NewAssignment2\NewAssignment2\Simple_Banking\Simple_Banking\obj\Debug\Simple_Banking.pdb

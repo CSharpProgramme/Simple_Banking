@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|c:\\users\\1971537\\desktop\\newassignment2\\simple_banking\\simple_banking\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|solutionrelative:simple_banking\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|c:\\users\\1971537\\desktop\\newassignment2\\simple_banking\\simple_banking\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|solutionrelative:simple_banking\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|c:\\users\\1971537\\desktop\\newassignment2\\simple_banking\\simple_banking\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|solutionrelative:simple_banking\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|c:\\users\\1971537\\desktop\\newassignment2\\simple_banking\\simple_banking\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD786D82-3474-4DD7-946B-614ADEED7EF5}|Simple_Banking\\Simple_Banking.csproj|solutionrelative:simple_banking\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Simple_Banking\\CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\CheckingAccount.cs",
+              "RelativeToolTip": "Simple_Banking\\CheckingAccount.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:10:12.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Simple_Banking\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\SavingsAccount.cs",
+              "RelativeToolTip": "Simple_Banking\\SavingsAccount.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:09:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\Account.cs",
+              "RelativeDocumentMoniker": "Simple_Banking\\Account.cs",
+              "ToolTip": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\Account.cs",
+              "RelativeToolTip": "Simple_Banking\\Account.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:43:27.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\Driver.cs",
+              "RelativeDocumentMoniker": "Simple_Banking\\Driver.cs",
+              "ToolTip": "C:\\Users\\1971537\\Desktop\\NewAssignment2\\Simple_Banking\\Simple_Banking\\Driver.cs",
+              "RelativeToolTip": "Simple_Banking\\Driver.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:42:29.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
