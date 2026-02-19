@@ -40,18 +40,22 @@ namespace Simple_Banking
         public override void Credit(decimal amount)
         {
             base.Credit(amount);
+            AccBalance -= TransactionFee;
         }
 
         public override bool Debit(decimal amount)
         {
-            bool withdrawSuccess = base.Debit(amount);
+            bool withdrawSuccess = base.Debit(amount + TransactionFee);
 
             if (withdrawSuccess) 
             {
-                AccBalance -= TransactionFee;
                 Console.WriteLine("Withdraw successfull! A Transaction fee is charged");
             }
-            return withdrawSuccess;
+            else
+            {
+                Console.WriteLine("Withdraw Transaction is not successfull!");
+            }
+                return withdrawSuccess;
         }
 
         public override void DisplayAccount()

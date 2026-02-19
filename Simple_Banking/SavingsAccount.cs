@@ -49,8 +49,7 @@ namespace Simple_Banking
 
         public decimal CalculateInterest()
         {
-            decimal balanceWithInterest = Math.Round((AccBalance * InterestRate), 2);
-            return balanceWithInterest;
+            return (AccBalance * InterestRate);
         }
 
         public override void DisplayAccount()
